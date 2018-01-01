@@ -1,4 +1,4 @@
-# 4-chord Thermamin
+# 4-chord Theramin
 
 ## Overview
 This project is a light controlled Theramin for the 4-chord enthusiast. It is based on Project 6 in the [Arduino Starter Kit](https://www.arduino.cc/en/Main/ArduinoStarterKit?setlang=en) projects book and extended to be pitch focused rather than a continuous spectrum of frequencies.
